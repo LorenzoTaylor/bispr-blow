@@ -1,0 +1,21 @@
+Sources/BisprBlow/WisprImport.swift
+  s_5e6fc1ec3816e9::t_c7c9e5de3d0473 24-27
+build.sh
+  s_5e6fc1ec3816e9::t_d860396519b723 46-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f93b3e893ec93249aff83ab6a8e8fd4c1eb7bd8d",
+  "prompts": {},
+  "sessions": {
+    "s_5e6fc1ec3816e9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5907c5f5-25bc-41e0-bd68-dce5fb5240d5",
+        "model": "unknown"
+      },
+      "human_author": "Lorenzo Taylor <lmtaylor9@dons.usfca.edu>"
+    }
+  }
+}
